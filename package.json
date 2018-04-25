@@ -1,0 +1,23 @@
+{
+  "name": "byzantine-notes",
+  "version": "1.0.0",
+  "description": "Byzantine Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byzantinenetwork/byzantine-notes.git"
+  },
+  "author": "bearies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byzantinenetwork/byzantine-notes/issues"
+  },
+  "homepage": "https://github.com/byzantinenetwork/byzantine-notes#readme",
+  "dependencies": {
+    "ghost": "^1.22.4"
+  }
+}
